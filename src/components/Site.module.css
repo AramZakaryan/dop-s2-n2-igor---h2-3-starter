@@ -27,3 +27,14 @@
     color: white;
     font-size: 30px;
 }
+
+.act {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.notAct {
+    color: grey;
+    text-decoration: none;
+}
